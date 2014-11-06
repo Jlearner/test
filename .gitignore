@@ -1,0 +1,3 @@
+dontInclude.txt
+Partial/*
+!Partial/dontInclude.txt
